@@ -76,13 +76,17 @@ The **Excel Data Importer** project is a comprehensive solution for importing, v
    git clone https://github.com/Sandyy9322/Excel-Data-Importer.git
    cd excel-data-importer
    ```
+2. Navigate to the frontend directory:
+   ```bash
+   cd frontend
+   ```
 
-2. Install dependencies:
+3. Install dependencies:
    ```bash
    npm install
    ```
 
-3. Start the frontend server:
+4. Start the frontend server:
    ```bash
    npm run dev
    ```
@@ -102,6 +106,7 @@ The **Excel Data Importer** project is a comprehensive solution for importing, v
 3. Create a `.env` file and add your MongoDB URI:
    ```env
    MONGODB_URI=<your-mongodb-uri>
+   PORT=<port number>
    ```
 
 4. Start the backend server:
