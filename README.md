@@ -52,7 +52,7 @@ The **Excel Data Importer** project is a comprehensive solution for importing, v
 - **Frontend**:
   - React.js with Tailwind CSS.
   - Pagination for large datasets.
-  - TypeScript (optional).
+ 
 
 - **Backend**:
   - Node.js with Express.js.
